@@ -1,0 +1,12 @@
+{
+  "name": "watermark",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Robert ",
+  "license": "no",
+  "private": false,
+  "dependencies": {
+    "inquirer": "6.5.0",
+    "jimp": "0.6.4"
+  }
+}
